@@ -22,14 +22,3 @@
 * **Base de Datos:** MongoDB Atlas (NoSQL)
 * **Librerías de Python:** `pymongo`, `dnspython`, `gunicorn` (para el despliegue)
 * **Frontend:** HTML5 y CSS3 (Renderizado dinámico mediante Jinja2 con `render_template_string`)
-
----
-
-## Configuración Local
-
-Si deseas ejecutar este proyecto en tu propia computadora, sigue estos pasos:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
-   cd TU_REPOSITORIO
